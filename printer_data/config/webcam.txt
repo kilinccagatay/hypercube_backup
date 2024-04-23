@@ -1,3 +1,0 @@
-camera=usb
-
-camera _usb_options="-r 640×480 -§ 25"
